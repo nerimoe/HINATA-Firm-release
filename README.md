@@ -1,0 +1,1 @@
+# HINATA Firmware release repo
